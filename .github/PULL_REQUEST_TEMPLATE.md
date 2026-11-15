@@ -14,8 +14,14 @@
 <!-- Notable changes as bullets; link files or commits where useful. -->
 - 
 
+## Reviewer notes
+<!-- Where to start reading, which parts need a careful look, and what can be skimmed. -->
+
 ## Verification
 <!-- Commands run and what you observed; screenshots for UI. "Not tested" is valid; say why. -->
+
+## AI assistance
+<!-- Which agent/model wrote what (code, tests, description), and how its output was checked. Write "None" if none. -->
 
 ## Risk and rollback
 <!-- Breaking changes, secret or data exposure, blast radius, and how to undo. Write "None" if trivial. -->
